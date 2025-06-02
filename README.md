@@ -91,8 +91,9 @@ From securing embedded devices to deploying full-stack applications in the cloud
 ---
 
 ## 🌍 Let's Connect!
-- 💼 LinkedIn: [Azad Hussain](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/azad-hussain-89890b256)
+- 💼 LinkedIn: [Azad Hussain](https://www.linkedin.com/in/azad-hussain-89890b256)  
 Feel free to collaborate or chat about projects, internships, or ideas!
+
 
 <!--
 **ayyzadd/ayyzadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
